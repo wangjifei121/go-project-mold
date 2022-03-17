@@ -1,0 +1,31 @@
+2022-03-16 09:24:33	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-16 09:24:33	info	initialize/initGorm.go:57	>>>正在进行mysql数据库表迁移
+2022-03-16 09:24:33	info	initialize/initGorm.go:60	>>>mysql数据库表迁移完成
+2022-03-16 09:24:33	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-16 09:24:33	info	health/health.go:13	router health request info OK
+2022-03-16 09:24:33	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-16 09:39:42	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-16 09:39:42	info	initialize/initGorm.go:57	>>>正在进行mysql数据库表迁移
+2022-03-16 09:39:42	info	initialize/initGorm.go:60	>>>mysql数据库表迁移完成
+2022-03-16 09:39:42	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-16 09:39:42	info	health/health.go:13	router health request info OK
+2022-03-16 09:39:42	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-16 09:40:57	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-16 09:40:57	info	initialize/initGorm.go:57	>>>正在进行mysql数据库表迁移
+2022-03-16 09:40:57	info	initialize/initGorm.go:60	>>>mysql数据库表迁移完成
+2022-03-16 09:40:57	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-16 09:40:57	info	health/health.go:13	router health request info OK
+2022-03-16 09:40:57	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-16 09:42:17	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-16 09:42:17	info	initialize/initGorm.go:57	>>>正在进行mysql数据库表迁移
+2022-03-16 09:42:17	info	initialize/initGorm.go:60	>>>mysql数据库表迁移完成
+2022-03-16 09:42:17	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-16 09:42:17	info	health/health.go:13	router health request info OK
+2022-03-16 09:42:17	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-16 09:45:05	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 09:45:06	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 09:45:13	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 09:45:15	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 09:49:44	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 10:43:07	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-16 10:43:10	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml

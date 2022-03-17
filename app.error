@@ -1,0 +1,14 @@
+2022-03-15 19:33:14	error	initialize/initGorm.go:44	>>>初始化数据库失败sql: unknown driver "mysql" (forgotten import?)
+projectDemo/initialize.InitDB
+	/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/initialize/initGorm.go:44
+main.main
+	/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/main.go:31
+runtime.main
+	/usr/local/go/src/runtime/proc.go:255
+2022-03-15 19:39:36	error	initialize/initGorm.go:46	>>>初始化数据库失败Error 1049: Unknown database 'pvsg1'
+projectDemo/initialize.InitDB
+	/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/initialize/initGorm.go:46
+main.main
+	/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/main.go:33
+runtime.main
+	/usr/local/go/src/runtime/proc.go:255

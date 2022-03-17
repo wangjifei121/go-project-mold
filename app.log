@@ -1,0 +1,38 @@
+2022-03-17 10:43:51	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-17 10:43:51	info	initialize/initGorm.go:66	>>>正在进行mysql数据库表迁移
+2022-03-17 10:43:51	info	initialize/initGorm.go:69	>>>mysql数据库表迁移完成
+2022-03-17 10:43:51	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-17 10:43:51	info	health/health.go:13	router health request info OK
+2022-03-17 10:43:51	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-17 10:44:02	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 10:44:06	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-17 10:44:06	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-17 10:44:06	info	health/health.go:13	router health request info OK
+2022-03-17 10:44:06	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-17 13:56:02	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:56:08	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:56:14	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:56:16	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:56:17	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:56:20	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:21	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:26	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:28	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:29	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:41	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:43	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:45	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:46	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:57:49	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:58:51	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:58:52	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 13:58:54	info	config/config.go:49	Config file changed: %s/Users/wangjifei/Documents/wangjifei/goBookCodes/book_final_code/projectDemo/conf/config.yaml
+2022-03-17 14:04:18	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-17 14:04:18	info	projectDemo/main.go:51	开始监听http地址:9001
+2022-03-17 14:04:19	info	health/health.go:13	router health request info OK
+2022-03-17 14:04:19	info	projectDemo/main.go:48	>>>当前服务启动成功，通过服务自检.
+2022-03-17 14:05:31	info	initialize/initGorm.go:55	>>>>初始化mysql数据库成功
+2022-03-17 14:05:31	info	initialize/initRedis.go:21	>>>redis连接成功
+2022-03-17 14:05:31	info	projectDemo/main.go:52	开始监听http地址:9001
+2022-03-17 14:05:31	info	health/health.go:13	router health request info OK
+2022-03-17 14:05:31	info	projectDemo/main.go:49	>>>当前服务启动成功，通过服务自检.

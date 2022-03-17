@@ -1,0 +1,22 @@
+runmode: debug               # 开发模式, debug, release, test
+addr: :9001                 # HTTP绑定端口
+url: http://127.0.0.1:9001
+max_check_count: 10
+database:
+  type: mysql
+  name: pvsg
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  password: wangfei121
+  charset: utf8
+migrate: false
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: 
+  db: 0
+zap:
+  basedir: "./logs/"
+  infopath: "app.log"
+  errorpath: "app.error"
